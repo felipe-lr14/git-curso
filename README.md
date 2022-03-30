@@ -1,2 +1,2 @@
 # git-curso
-repositorio para aprendizado de git
+Repositório para Aprendizado de Git
